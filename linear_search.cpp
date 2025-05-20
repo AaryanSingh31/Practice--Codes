@@ -42,6 +42,7 @@ int main(){
 
     return 0;
 }
+//little change
 
 // output :-
 >>>>>>> bde8109 (Add linear search)
