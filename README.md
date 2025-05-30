@@ -25,7 +25,7 @@ Each program is contained in its own `.cpp` file, named according to the problem
 If you have any questions, suggestions, or just want to say hi — feel free to reach out:
 
 - 📧 **Email**: [aaryan000singh@gmail.com](mailto:aaryan000singh@gmail.com)
-- 💼 **LinkedIn**: [Aaryan Singh](https://www.linkedin.com/in/aaryan-singh-1571a9279/)
+- 💼 **LinkedIn**: [Aaryan Singh](https://www.linkedin.com/in/aaryan-singh-537320368/))
 - 💻 **GitHub**: [@AaryanSingh31](https://github.com/AaryanSingh31)
 - 🐦 **Twitter (X)**: [@aaryansingh31](https://twitter.com/aaryansingh31)
 
