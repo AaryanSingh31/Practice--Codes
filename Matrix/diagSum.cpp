@@ -14,7 +14,7 @@ int diagSum(int n, vector<vector<int>> & matrix){
             }
         }
     }
-    return (prinDiagSum + nonpD);
+    return (n % 2 == 0) ? (prinDiagSum + nonpD) : (prinDiagSum + nonpD - matrix[n/2][n/2]); //Central element in case of odd matrix of size n is n/2
 }
 
 int main(){
@@ -29,3 +29,10 @@ int main(){
     cout<<diagSum(n, matrix)<<endl;
     return 0;
 }
+// MOST IMPORTANT SUMMARY (Interview Gold)
+// Concept	Condition
+// Primary diagonal	i == j
+// Secondary diagonal	i + j == n-1
+// Same diagonal	i + j = constant
+// Upper triangle	i < j
+// Lower triangle	i > j
