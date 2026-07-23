@@ -134,3 +134,10 @@ int main(){
 
     return 0;
 }
+// | Operation      | Time Complexity |
+// | -------------- | --------------- |
+// | Heapify        | **O(log n)**    |
+// | Build Max Heap | **O(n)**        |
+// | Insert         | **O(log n)**    |
+// | Delete Root    | **O(log n)**    |
+// | Heap Sort      | **O(n log n)**  |
